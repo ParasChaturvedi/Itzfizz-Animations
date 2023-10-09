@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Itzfizz-Animations/static/css/main.00c77070.css",
+    "main.js": "/Itzfizz-Animations/static/js/main.323a90b4.js",
+    "static/js/787.f93e68c5.chunk.js": "/Itzfizz-Animations/static/js/787.f93e68c5.chunk.js",
+    "index.html": "/Itzfizz-Animations/index.html",
+    "main.00c77070.css.map": "/Itzfizz-Animations/static/css/main.00c77070.css.map",
+    "main.323a90b4.js.map": "/Itzfizz-Animations/static/js/main.323a90b4.js.map",
+    "787.f93e68c5.chunk.js.map": "/Itzfizz-Animations/static/js/787.f93e68c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c77070.css",
+    "static/js/main.323a90b4.js"
+  ]
+}
